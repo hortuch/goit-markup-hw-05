@@ -32,7 +32,7 @@
 }
 .container-footer {
     display: flex;
-    align-items: flex-start;
+    align-items: baseline;
     justify-content: flex-start;
     flex-direction: row;
     padding-block: 0px;
@@ -47,11 +47,12 @@
     flex-direction: column;
     margin-right: 120px;
     gap: 16px;
-    width: 100%;
-    max-width: 264px;
+     max-width: 264px;
+    margin-right: 120px;
 }
 .footer-socials {
     display: block;
+    margin-right: 80px;
 }
 .footersoc-title {
     font-weight: 500;
