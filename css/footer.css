@@ -92,7 +92,7 @@
     justify-content: center;
     flex-direction: column;
     margin-right: 0px;
-    margin-left: 80px;
+    margin-left: auto;
 }
 .footer-form {
     display: flex;
@@ -117,7 +117,7 @@
 
     padding-left: 16px;
 
-    border: 1px solid rgba(255, 255, 255, 0.3);
+    border: 1px solid rgb(255,255,255);
     border-radius: 4px;
 
     background-color: transparent;
@@ -172,5 +172,4 @@
 }
 .footer-button-icon {
     fill: #FFFFFF;
-    margin-left: 16px
 }
